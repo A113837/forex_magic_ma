@@ -1,0 +1,2 @@
+sell- below MA
+buy- above MA
