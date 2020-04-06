@@ -2,3 +2,7 @@ sell- below MA
 buy- above MA
 
 Untuk pengetahuan tuan, jika anda menggunakan akaun micro, anda boleh berdagang pasangan yang mempunyai akhiran micro dibelakangnya. Sebagai satu contoh untuk EURUSD, anda perlu   membuka dagangan anda di EURUSDmicro. Untuk simbol micro, anda boleh menekat Ctrl+U di MT4   anda, dan anda boleh mencari pasangan micro dalam kumpulan 1 micro ~ Kumpulan 3 micro. Sila   ambil perhatian bahawa jika anda menggunakan MT4 Mobile, anda boleh ke Quotes Tab, klik pada   simbol “+”, dan ada boleh cari pasangan micro di Kumpulan 1 micro ~ kumpulan 3 micro.
+
+0.1% dari capital
+cth 1000usd jadi 0.1% = 1$;
+
