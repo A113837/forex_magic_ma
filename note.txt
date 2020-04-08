@@ -6,3 +6,5 @@ Untuk pengetahuan tuan, jika anda menggunakan akaun micro, anda boleh berdagang 
 0.1% dari capital
 cth 1000usd jadi 0.1% = 1$;
 
+SAR open posisi support-buy
+SAR open posisi resistant-sell
